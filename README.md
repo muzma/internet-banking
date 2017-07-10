@@ -1,6 +1,6 @@
-# Simple Internet Banking dengan Angular 2 + Bootstrap
+# Simple Internet Banking dengan Angular 2 + ngx-Bootstrap + Springboot
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+Ini adalah aplikasi sederhanya dengan contoh kasus internet banking. Pada kasus ini teknologi yang digunakan adalah untuk Front End menggunakan ##Angular 2 dan ngx-Bootstrap sedangkan untuk BeckEnd menggunakan Springboot
 
 ## Development server
 
